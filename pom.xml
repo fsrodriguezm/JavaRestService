@@ -16,7 +16,7 @@
 
   <modules>
     <module>server</module>
-    <module>webapp</module>
+    <module>JavaRestService</module>
   </modules>
 
   <distributionManagement>
