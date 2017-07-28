@@ -6,7 +6,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
 @Path("/hello")
-public class HelloWorldRestService {
+public class JavaRestService {
 // This method is called if TEXT_PLAIN is request
     @GET
     @Produces(MediaType.TEXT_PLAIN)
